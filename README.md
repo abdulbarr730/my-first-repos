@@ -1,2 +1,4 @@
 # my-first-repos
-Author : Abdul Barr
+This is my first git repository
+<br>
+Author: Abdul Barr
