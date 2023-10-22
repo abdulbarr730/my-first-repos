@@ -1,4 +1,4 @@
 # my-first-repos
 This is my first git repository
 <br>
-Author: Abdul Barr
+Author: Abdul Barr (Apna College)
